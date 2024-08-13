@@ -41,7 +41,7 @@ const Founders = () => {
       imgSrc: "https://pravatar.cc/300?img=5",
     },
     {
-      name: "Alidante",
+      name: "Ruth",
       title: "Developer",
       description: "Previously Co-Founder of Benchrise, Inc.",
       imgSrc: "https://pravatar.cc/300?img=6",
